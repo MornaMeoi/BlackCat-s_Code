@@ -45,6 +45,10 @@
         "ranges": "cpp",
         "stdexcept": "cpp",
         "streambuf": "cpp",
-        "typeinfo": "cpp"
-    }
+        "typeinfo": "cpp",
+        "span": "cpp",
+        "variant": "cpp",
+        "map": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "enabledIfIncludesResolve"
 }
